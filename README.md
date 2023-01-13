@@ -13,3 +13,4 @@ it's okay
 test conflict
 merge conflict
 jj
+new line added for test
